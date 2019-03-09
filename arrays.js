@@ -40,6 +40,10 @@ function destructivelyRemoveElementFromEndOfArray(array){
   array.pop();
   return array;
 }
+
+function removeElementFromEndOfArray(){
+  return array.slice(0, array.lenght - 1)
+}
   
   
   
