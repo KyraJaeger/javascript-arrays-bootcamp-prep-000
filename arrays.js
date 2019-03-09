@@ -23,7 +23,9 @@ var chocolateBars=[
     return [array];
   }
   
-  
+  function accessElementInArray(){
+    
+  }
   
   
   
