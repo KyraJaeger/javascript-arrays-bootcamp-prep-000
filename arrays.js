@@ -23,9 +23,7 @@ var chocolateBars=[
     return [array];
   }
   
-  function destructivelyAddElementToEndOfArray(array, index){
-    return array[index];
-  }
+  
   
   
   
