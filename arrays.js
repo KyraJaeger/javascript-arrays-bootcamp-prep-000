@@ -23,4 +23,18 @@ var chocolateBars=[
     return [array]
   }
   
+  function destructivelyAddElementToEndOfArray(){
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
