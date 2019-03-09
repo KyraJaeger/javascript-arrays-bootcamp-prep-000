@@ -23,8 +23,8 @@ var chocolateBars=[
     return [array]
   }
   
-  function destructivelyAddElementToEndOfArray(){
-    
+  function destructivelyAddElementToEndOfArray(array, index){
+    return array[index];
   }
   
   
